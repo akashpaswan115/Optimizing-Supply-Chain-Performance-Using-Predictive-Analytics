@@ -21,7 +21,7 @@ This project explores a real-world supply chain dataset to uncover insights into
 
 ### 🛠️ Tools & Technologies
 
-* Python, Pandas, NumPy
+* Python, Pandas, NumPy, Scikit Learn
 * Seaborn, Matplotlib, Plotly
 * Jupyter Notebook
 * Supply Chain Management Concepts (EOQ, ROP, Demand Estimation)
