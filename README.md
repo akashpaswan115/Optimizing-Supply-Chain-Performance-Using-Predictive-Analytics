@@ -1,6 +1,3 @@
-Absolutely! Here's a solid, professional **README project description** tailored for your GitHub, based on your Supply Chain Analytics project:
-
----
 
 ## 📦 Supply Chain Analytics: Inventory Optimization & Risk Analysis
 
@@ -28,7 +25,3 @@ This project explores a real-world supply chain dataset to uncover insights into
 * Seaborn, Matplotlib, Plotly
 * Jupyter Notebook
 * Supply Chain Management Concepts (EOQ, ROP, Demand Estimation)
-
----
-
-Let me know if you'd like to add links to specific visualizations or include GIFs/screenshots to make it more eye-catching for recruiters!
