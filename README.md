@@ -1,4 +1,4 @@
-
+Dataset Link: https://data.mendeley.com/datasets/8gx2fvg2k6/5
 ## 📦 Supply Chain Analytics: Inventory Optimization & Risk Analysis
 
 This project explores a real-world supply chain dataset to uncover insights into sales performance, profitability, inventory efficiency, and delivery risks. By applying statistical analysis and predictive modeling, the project identifies opportunities to optimize inventory through Economic Order Quantity (EOQ), Reorder Point (ROP), and basic demand forecasting.
